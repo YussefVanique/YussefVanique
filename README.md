@@ -12,7 +12,7 @@
     <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div><br/>
 
-Atualmente estou cursando ADS na faculdade UDF.
+Formado em ADS na faculdade UDF.
 
 
 Futuro DBA 👊
